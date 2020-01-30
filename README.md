@@ -1,5 +1,5 @@
 # Instalacio-sonora-Ecoembes
-Instalacio sonora Ecoembes
+[Instalacio sonora Ecoembes](https://github.com/arquesm/TdPiED/blob/master/Instalacio_sonora.md)
 
 ## Guía de trabajo
 [práctica 1. Análisis de los materiales](materiales.md)
