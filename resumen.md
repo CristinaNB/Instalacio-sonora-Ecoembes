@@ -21,4 +21,3 @@ Se trata de una exhibición de esculturas con sonidos
 ·Arrastre
 ·Arriba y abajo
 ·Giros
-
