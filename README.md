@@ -4,8 +4,9 @@
 ## Guía de trabajo
 
 ### 1 Organitzación y presentación del proyecto
-[práctica 1. Análisis de los materiales](materiales.md)
+
 ### 2 Análisis del material
+[práctica 1. Análisis de los materiales](materiales.md)
 ### 3 Taller
 ### 4 Taller
 ### 5 Montaje y documentación
