@@ -2,22 +2,22 @@
 Se trata de una exhibición de esculturas con sonidos
 ## Materiales usados
 
-### objetos encontrados
+### Objetos encontrados
 ·Esponja                   ·Tela              ·Tornillos
 ·Bloques de madera         ·Silbato           ·Plástico duro
 ·Varillas de plástico      ·Metal
 
-### dispositivos eléctricos
+### Dispositivos eléctricos
 ·Cables                    ·Interruptores
 ·Portapilas                ·Pilas
 ·Motores                   
 
-## sonidos
+## Sonidos
 ·Zumbidos                    ·Golpes
 ·Vibraciones                 ·Caídas
 ·Colisiones                   
 
-## movimientos
+## Movimientos
 ·Arrastre
 ·Arriba y abajo
 ·Giros
