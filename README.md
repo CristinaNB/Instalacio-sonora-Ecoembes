@@ -11,6 +11,7 @@
 [memoria_parejas](memoria_rebecacristina.pdf)
 ### 4 Fotografías del proceso 
 Se realizaron diversas fotografias del proceso de produccion de este proyecto
+
 Paso 1: Entrega de materiales [entregadematerial](entregademateriales.heic)
 
 Paso 2: Apuntes de qué trajo cada persona [inventario](apuntes.heic)
