@@ -3,14 +3,13 @@
 
 ## Guía de trabajo
 
-### 1 Organitzación y presentación del proyecto
+### 1 Organitzación y presentación del proyect
 
 ### 2 Análisis del material
 [práctica 1. Análisis de los materiales](materiales.md)
-### Memoria 
-[memoria_parejas](memoria_rebecacristina.pdf)
-### 4 Fotografías del proceso 
-Se realizaron diversas fotografias del proceso de produccion de este proyecto
+###  PROCESO
+### 3 Proceso y sus fotografí
+Se realizaron diversas fotografías del proceso de produccióasn de este proyecto
 
 Paso 1: Entrega de materiales [entregadematerial](entregademateriales.heic)
 
@@ -30,4 +29,8 @@ Paso 3: Se fotografió todo el material clasificado por tipos
 Paso 4: Se comenzo el montaje del circuito electrico [electricidad](electricidad.heic)
 
 
-### 5 Montaje y documentación
+### 5 MEMORIA
+Se realizó una memoria en parejas para documentar el proyecto y la propuesta
+[memoria](memoria_rebecacristina.pdf)
+
+
