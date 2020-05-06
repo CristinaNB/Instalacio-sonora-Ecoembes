@@ -8,7 +8,7 @@
 ### 2 Análisis del material
 [práctica 1. Análisis de los materiales](materiales.md)
 ###  PROCESO
-### 3 Proceso y sus fotografí
+### 3 Proceso y sus fotografias
 Se realizaron diversas fotografías del proceso de produccióasn de este proyecto
 
 Paso 1: Entrega de materiales [entregadematerial](entregademateriales.heic)
