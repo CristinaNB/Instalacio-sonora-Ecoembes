@@ -35,4 +35,11 @@ Paso 4: Se comenzo el montaje del circuito electrico [electricidad](electricidad
 Se realizó una memoria en parejas para documentar el proyecto y la propuesta
 [memoria](memoria_rebecacristina.pdf)
 
+### 6 VIDEOS
+En este apartado se van a poder visualizar diversos videos del proceso
+
+-Videos de los compañeros
+
+-V
+
 
