@@ -9,7 +9,7 @@
 [práctica 1. Análisis de los materiales](materiales.md)
 
 
-PROCESO
+### PROCESO 
 ### 3 Proceso y sus fotografias
 Se realizaron diversas fotografías del proceso de produccióasn de este proyecto
 
