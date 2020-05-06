@@ -16,6 +16,7 @@ Paso 1: Entrega de materiales [entregadematerial](entregademateriales.heic)
 Paso 2: Apuntes de qué trajo cada persona [inventario](apuntes.heic)
 
 Paso 3: Se fotografió todo el material clasificado por tipos
+
 [carton](carton.heic)
 
 [cristal](cristal.heic)
