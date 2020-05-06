@@ -24,5 +24,10 @@ Paso 3: Se fotografió todo el material clasificado por tipos
 
 [plastico](plastico.heic)
 
+[materialalternativo](alternativo.heic)
+
+
+Paso 4: Se comenzo el montaje del circuito electrico [electricidad](electricidad.heic)
+
 
 ### 5 Montaje y documentación
