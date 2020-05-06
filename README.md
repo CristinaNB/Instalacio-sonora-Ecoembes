@@ -9,5 +9,5 @@
 [práctica 1. Análisis de los materiales](materiales.md)
 ### Memoria 
 [memoria_parejas](memoria_rebecacristina.pdf)
-### 4 Taller
+### 4 Fotografías del proceso 
 ### 5 Montaje y documentación
